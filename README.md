@@ -23,6 +23,8 @@ I am on a quest to become a data scientist, a role that perfectly blends my love
 
 Here you'll find a collection of my projects that showcase my skills in data manipulation, visualization, and analysis. Each project is a step towards refining my craft and advancing my understanding of machine learning algorithms.
 
+[**Covid Project With SQL**](https://github.com/parsabarghi/Covid-Project--SQL-)
+
 ## Let's Connect
 
 I believe in the power of collaboration and am always on the lookout for like-minded individuals or exciting projects. If you're interested in discussing data science, machine learning, or just want to share your favorite gaming moments, feel free to reach out!
