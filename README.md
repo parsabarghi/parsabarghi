@@ -1,30 +1,56 @@
-# Parsa Barghi
+<h2 align="left">Hi 👋! My name is Parsa...</h2>
 
-Welcome to my GitHub profile! I'm Parsa, a passionate individual on a journey to master the art of machine learning. With a foundation in Python and a growing expertise in data science, I am eager to explore the vast ocean of data and extract meaningful insights.
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsabarghi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parsabarghi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-•  [**Programming Languages And Databases**](https://www.bing.com/search?form=SKPBOT&q=Programming%20Languages): Proficient in Python and SQL Server.
+###
 
-•  [**Libraries & Tools**](https://www.bing.com/search?form=SKPBOT&q=Libraries%20%26amp%3B%20Tools): Skilled with numpy, pandas, matplotlib, scikit-learn, seaborn.
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"  />
 
-•  [**Current Learning Path**](https://www.bing.com/search?form=SKPBOT&q=Current%20Learning%20Path): Diving deep into machine learning concepts and techniques.
+###
 
-•  [**Interests**](https://www.bing.com/search?form=SKPBOT&q=Interests): Data science and data analysis captivate me, as they are the keys to unlocking the potential hidden within data.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-•  [**Hobbies**](https://www.bing.com/search?form=SKPBOT&q=Hobbies): When I'm not coding, you can find me immersed in the world of gaming or lost in the pages of a good book.
+###
 
+<div align="left">
+<a href="mailto:parsabarqi@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+</div>
 
-## Professional Aspirations
+###
 
-I am on a quest to become a data scientist, a role that perfectly blends my love for coding with my fascination for data. My goal is to contribute to projects that not only push the boundaries of technology but also have a positive impact on society.
+<br clear="both">
 
-## Projects
+<img src="https://raw.githubusercontent.com/parsabarghi/parsabarghi/output/snake.svg" alt="Snake animation" />
 
-Here you'll find a collection of my projects that showcase my skills in data manipulation, visualization, and analysis. Each project is a step towards refining my craft and advancing my understanding of machine learning algorithms.
+###
 
-[**Covid Project With SQL**](https://github.com/parsabarghi/Covid-Project--SQL-)
+<div align="left">
+  <img src="https://profile-counter.glitch.me/parsabarghi/count.svg?"  />
+</div>
 
-## Let's Connect
+###
 
-I believe in the power of collaboration and am always on the lookout for like-minded individuals or exciting projects. If you're interested in discussing data science, machine learning, or just want to share your favorite gaming moments, feel free to reach out!
+<p align="center">Welcome to my GitHub profile! I'm Parsa, a passionate individual on a journey to master the art of machine learning. With a foundation in Python and a growing expertise in data science, I am eager to explore the vast ocean of data and extract meaningful insights.</p>
+
+###
