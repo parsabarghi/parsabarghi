@@ -9,7 +9,7 @@ workflow_dispatch:
 
 push:
 branches:
-•  main  # or main if your default branch is named main
+•  main  
 
 
 jobs:
