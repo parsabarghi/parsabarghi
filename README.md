@@ -40,9 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/parsabarghi/parsabarghi/output/snake.svg" alt="Snake animation" />
 
 ###
 
