@@ -1,52 +1,27 @@
-<h2 align="center">Hi, I`m Parsa</h2>
+<h2 align="">Hi, I`m Parsa</h2>
+<h3>Software Engineer | Learning ML/Vision </h3>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=parsabarghi.parsabarghi&left_color=tan&right_color=royalblue&left_text=cam%20you%20see%20me?"  />
+##
+<div align="">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=parsabarghi.parsabarghi&left_color=tan&right_color=royalblue&left_text=can%20you%20see%20me?"  />
 </div>
 
-###
+## I little bit about me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-</div>
+🎓 &nbsp;I'm currently working towards Python and Architecture \
+🌱 &nbsp;I'm on track with learning more about AI/ML/DL and Computer Vision.\
+✍️ &nbsp;In my free time, I enjoy reading, open-sea swimming and spending time with family.\
+✉️ &nbsp;You can drop me an email with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
+📄 &nbsp;Check my [website]() to get to know me a little better.
 
-###
+## Links
 
-<div align="center">
-  <a href="mailto:parsabarqi@gmail.com">
-  <img href="mailto:parsabarqi@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
-  <a></a> 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-<div />
-
-
+<p align="center">
+  <!-- <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a> -->
+  <!-- <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
+  <a href="mailto:parsabarqi@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <!-- <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a> -->
+  <a href="https://www.youtube.com"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://twitter.com"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+</p>
