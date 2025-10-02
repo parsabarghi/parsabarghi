@@ -1,11 +1,6 @@
 <h2 align="">Hi, I`m Parsa</h2>
 <h3>Software Engineer | Learning ML/Vision </h3>
 
-##
-<div align="">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=parsabarghi.parsabarghi&left_color=tan&right_color=royalblue&left_text=can%20you%20see%20me?"  />
-</div>
-
 ## I little bit about me
 
 🎓 &nbsp;I'm currently working towards Python and Architecture \
