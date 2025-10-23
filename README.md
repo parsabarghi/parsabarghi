@@ -18,5 +18,5 @@
   <!-- <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a> -->
   <a href="https://www.youtube.com"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://x.com/PBarghi80603?t=iOx3244xdiFrxUnQsfx6Ag&s=09"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
